@@ -12,9 +12,17 @@
     "@emotion/react": "^11.11.3",
     "@emotion/styled": "^11.11.0",
     "@mui/material": "^5.15.6",
+    "@react-spring/three": "^9.7.1",
+    "@react-three/drei": "^9.97.0",
+    "@react-three/fiber": "^8.15.16",
+    "@react-three/rapier": "^1.2.1",
+    "@tweenjs/tween.js": "^23.1.1",
+    "@types/three": "^0.161.2",
     "next": "14.1.0",
     "react": "^18",
-    "react-dom": "^18"
+    "react-dom": "^18",
+    "three": "^0.161.0",
+    "zustand": "^4.5.0"
   },
   "devDependencies": {
     "@types/node": "^20",
